@@ -1,3 +1,7 @@
+this is an unofficial fork of CST-YOLO 
+for implementation purposes ONLY
+thanks to [this answer](https://stackoverflow.com/questions/74372636/indices-should-be-either-on-cpu-or-on-the-same-device-as-the-indexed-tensor) on stackoverflow by [anactualtoaster](https://stackoverflow.com/users/14077571/anactualtoaster)
+
 # Official CST-YOLO
 This is the source code for the paper titled "CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer" accepted by and presented orally at the 2024 IEEE International Conference on Image Processing ([ICIP 2024](https://2024.ieeeicip.org)), of which I am the first author. This paper is available to download from [IEEE Xplore](https://ieeexplore.ieee.org/document/10647618) or [arXiv](https://arxiv.org/abs/2306.14590).
 
